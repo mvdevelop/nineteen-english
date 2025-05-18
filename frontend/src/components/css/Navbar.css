@@ -1,0 +1,30 @@
+
+.navbar {
+    background-color: #222;
+    color: #fff;
+    padding: .5em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar img {
+    width: 3em;
+}
+
+nav {
+    display: flex;
+    gap: 1em;
+}
+
+nav a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.title {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
